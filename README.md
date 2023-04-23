@@ -22,3 +22,9 @@ Contact Us
 For any questions, feedback, or technical issues, please contact our support team at nonothinggames@gmail.com. We'd love to hear from you and are committed to providing the best gaming experience possible!
 
 Thank you for choosing "Pile" by No Nothing. Have fun building your tower and reaching for the skies!
+
+Get the Game
+
+App Store: https://apps.apple.com/us/app/pile/id1659488789
+
+Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.pile
