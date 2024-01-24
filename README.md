@@ -7,7 +7,6 @@ Welcome to "pile" - a challenging and addictive mobile game developed by Colton 
     Challenging Balance Mechanics: Carefully balance each building to avoid toppling the tower.
     Increasing Difficulty: Test your skills with progressively challenging levels and obstacles.
     Building Variety: Unlock and stack different types of buildings with unique characteristics.
-    Support Email: For any questions or support, please contact us at nonothinggames@gmail.com.
 
 ## How to Play
 
